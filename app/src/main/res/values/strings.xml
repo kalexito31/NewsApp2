@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news_title">El Classico: Real Madrid vs Barcelona</string>
+    <string name="news_date">2016-10-09</string>
+    <string name="news_section">Sports</string>
+    <string name="no_news">No news found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Politics, Sports, Technology...</string>
+
+</resources>
